@@ -10,7 +10,7 @@ pinoccio.upload.protocol=wiring
 pinoccio.bootloader.tool=arduino:avrdude
 
 pinoccio.build.f_cpu=16000000L
-pinoccio.build.core=arduino:arduino
+pinoccio.build.core=pinoccio:pinoccio
 pinoccio.build.variant=pinoccio
 pinoccio.build.board=PINOCCIO
 # Workaround for https://github.com/arduino/Arduino/pull/1695
